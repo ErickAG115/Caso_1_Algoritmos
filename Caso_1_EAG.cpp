@@ -115,7 +115,7 @@ int main(){
 	int val2[]={7,3};
 	int num1[]={5,3,2,4,1};
 	int num2[]={7,3,9,1,5,8,2};
-    
+
 	Triplet1(Trip1, Trip2);
 	Triplet1(Trip3, Trip4);
 	cout<<endl<<"////////////////////////"<<endl<<endl;
